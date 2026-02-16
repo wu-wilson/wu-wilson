@@ -2,7 +2,7 @@
 
 I’m a full-stack software engineer based in Plano, Texas.
 
-### 🏢 Places I’ve Worked
+### 🚀 Places I’ve Worked
 
 - [Capital One](https://www.capitalone.com/) — Plano, TX
 - [Fidelity Investments](https://www.fidelity.com/) — Westlake, TX
